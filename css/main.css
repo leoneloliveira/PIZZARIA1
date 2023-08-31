@@ -6,14 +6,14 @@
 @import "module/button.css";
 @import "module/cards.css";
 @import "layout/section_cards.css";
-@import"sobre/sobreheader.css";
-@import"sobre/sobrenav.css";
-@import"sobre/sobreheader.css";
-@import"sobre/sobrefooter.css";
-@import"localizacao/localizacaofooter.css";
-@import"localizacao/sobresection_cards.css";
-@import"localizacao/localizacaoheader.css";
-@import"localizacao/localizacaonav.css";
+@import "sobre/sobreheader.css";
+@import "sobre/sobrenav.css";
+@import "sobre/sobreheader.css";
+@import "sobre/sobrefooter.css";
+@import "localizacao/localizacaofooter.css";
+@import "localizacao/sobresection_cards.css";
+@import "localizacao/localizacaoheader.css";
+@import "localizacao/localizacaonav.css";
 
 body {
   background-color:red;
