@@ -1,0 +1,20 @@
+@import "base/_reset.css";
+@import "base/_variable.css";
+@import "base/_typography.css";
+@import "layout/_nav.css";
+@import "layout/_header.css";
+@import "module/_button.css";
+@import "module/_cards.css";
+@import "layout/_section_cards.css";
+@import"sobre/sobreheader.css";
+@import"sobre/sobrenav.css";
+@import"sobre/sobreheader.css";
+@import"sobre/sobrefooter.css";
+@import"localizacao/localizacaofooter.css";
+@import"localizacao/sobresection_cards.css";
+@import"localizacao/localizacaoheader.css";
+@import"localizacao/localizacaonav.css";
+
+
+
+
