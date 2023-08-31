@@ -15,6 +15,8 @@
 @import"localizacao/localizacaoheader.css";
 @import"localizacao/localizacaonav.css";
 
-
+body {
+  background-color:red;
+}
 
 
